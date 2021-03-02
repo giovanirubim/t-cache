@@ -1,0 +1,13 @@
+{
+	"name": "t-cache",
+	"version": "1.0.0",
+	"description": "Timed cache",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/giovanirubim/t-cache.git"
+	},
+	"scripts": {},
+	"author": "Giovani Rubim Francisco <giovanirubim.f@gmail.com>",
+	"license": "ISC"
+}
